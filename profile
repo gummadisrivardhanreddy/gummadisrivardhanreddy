@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gummadisrivardhanreddy
+- 👀 I’m interested in datascience
+- 🌱 I’m currently learning datascience with Ai
+- 💞️ I’m looking to collaborate on datscience projects
+- 📫 How to reach me 218r5a6606@gmail.com
